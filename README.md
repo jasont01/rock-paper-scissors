@@ -19,4 +19,6 @@
 ## About The Project
 
 This is a simple JavaScript project that implements Rock Paper Scissors.<br />
-It is part of Web Development 101 course at theodinproject.com.
+It is part of Web Development 101 course at theodinproject.com.<br />
+<br />
+Live version <a href="https://jasont01.github.io/rock-paper-scissors/">here</a>
